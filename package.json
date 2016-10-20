@@ -1,0 +1,14 @@
+{
+  "name": "test-nightwatch",
+  "version": "1.0.0",
+  "description": "test nightwatch project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "Igor Sheiko",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "nightwatch": "^0.8.18"
+  }
+}
