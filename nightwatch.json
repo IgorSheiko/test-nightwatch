@@ -6,7 +6,7 @@
     "start_process" : true,
     "server_path" : "/home/vagrant/selenium/selenium-server-standalone-2.53.1.jar"
     "cli_args": {
-      "webdriver.chrome.driver" : "/home/vagrant/selenium/chromedriver.exe"
+      "webdriver.chrome.driver" : "/home/vagrant/selenium/chromedriver"
     }
   },
 
