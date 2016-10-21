@@ -4,7 +4,7 @@
   "description": "test nightwatch project",
   "main": "index.js",
   "scripts": {
-    "test": "nightwatch"
+    "test": "/home/vagrant/nightwatch"
   },
   "author": "Igor Sheiko",
   "license": "BSD-2-Clause",
